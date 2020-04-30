@@ -1,0 +1,68 @@
+"Phrases"
+{
+	"ig_reports_prompt"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Type your message"
+	}
+	"ig_reports_sent_bug"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Bug report sent"
+	}
+	"ig_reports_sent_calladmin"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Report sent"
+	}
+	"ig_vip_restricted"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} This is a VIP feature"
+	}
+	"ig_command_usage_textcolour"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Usage: sm_textcolour {colour}"
+	}
+	"ig_vip_extend_early"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} You may only use vote extend when there is 5 minutes left"
+	}
+	"ig_vip_extend_in_vote"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Please wait until the current vote has finished"
+	}
+	"ig_vip_extend_vote_initiated"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1} Vote to extend started by {yellow}{2}"
+	}
+	"ig_vote_failed"
+	{
+		"#format"	"{1:s},{2:i},{3:i},{4:i}"
+		"en"		"{1} Vote failed. {lightgreen}{2}%%%% {default}vote required. [Received {lightgreen}{3}%%%% {default}of {lightgreen}{4} {default}votes]"
+	}
+	"ig_vote_successful"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"en"		"{1} Vote successful. [Received {lightgreen}{2}%%%% {default}of {lightgreen}{3} {default}votes]"
+	}
+	"ig_vip_extend_result"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} Extending map by 10 minutes"
+	}
+	"ig_vip_title_warning_name_colour"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} You must set a custom title using sm_mytitle before you can set your name colour"
+	}
+	"ig_vip_title_warning_text_colour"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} You must set a custom title using sm_mytitle before you can set your text colour"
+	}
+}
