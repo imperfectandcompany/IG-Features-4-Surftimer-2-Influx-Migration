@@ -11,7 +11,6 @@ Part of this process involved the creation of a migration script, will add and u
 ## Features
 
 > Each feature is broken up into components
-- **Comments**
 - [Point Check](#points)
 - [Records](#records)
 - [Reports](#reports)
@@ -27,8 +26,8 @@ Part of this process involved the creation of a migration script, will add and u
     - 🍴 If set to 0, all clients can join.
 
 ## Records
-- **Comments**
 > Configurable point check for skill server. Check client timer points on connect, if they don't have more than a configurable point count, they will be kicked from the server.  If set to 0, all clients can join.
+- **Comments**
     - 🍴 ig_records_webhook_announce is the records webhook convar
 ## Reports
 > Allows players to be proactive in documenting important information for us. Gives us something to work with and reference.
