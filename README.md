@@ -1,5 +1,11 @@
 ***Imperfect Gamers***
 
+
+Update: We have abandoned this project and started private development but this is public for anyone to use for their own server.
+
+It is fully working and ready with Influx Timer.
+
+
 # Custom Modular Plugins
 >This repository includes the scripting / translation files for imperfectgamers.org as well as the Influx timer includes necessary for compiling. Only time Influx will get in the way is when the forwards change, which is highly unlikely.
 - When installing an update of influx, you'll have to remove one plugin in particular if it is present: influx_simpleranks.
