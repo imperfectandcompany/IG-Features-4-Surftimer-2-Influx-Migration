@@ -1,7 +1,10 @@
 ***Imperfect Gamers***
 
 
-Update: We have abandoned this project and started private development but this is public for anyone to use for their own server.
+Update: We have abandoned this project and started private development for IG.
+This will remain public for free-usage.
+
+I will not be providing support unfortunately due to limited time but it does not hurt to shoot me a message if you are stuck.
 
 It is fully working and ready with Influx Timer.
 
