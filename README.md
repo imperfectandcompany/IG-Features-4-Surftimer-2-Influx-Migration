@@ -62,8 +62,6 @@ Part of this process involved the creation of a migration script, will add and u
 ****Migration script:**
  - Migrate map / bonus zones, and their tp locations
  - Migrate map / bonus / checkpoint times
- - surftimer and influx both have a "points" system, these points can be copied over directly, but may have unintended side effects since the point systems are different.  To do a proper full conversion would be quite complex and therefore add time and cost, not sure if that's worth it for you.
- - surftimer has a more sophisticated custom "zone outlines" structure, while influx has 3 presets "None", "Normal" and "Full", so hidden zone lines can be preserved if that is required but otherwise all will default to "Normal"
 
 ## Converted
 >Converted timer features:
